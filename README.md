@@ -28,7 +28,7 @@
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-blue.svg" /> </a>
 </p>
 
-A modular Telegram Python bot running on python3 with a sqlalchemy database.
+A modular Telegram fuck Python bot running on python3 with a sqlalchemy database.
 
 Originally a SaitamaRobot fork, AstrakoBot evolved further and was built to be more robust. 
 
